@@ -21,4 +21,4 @@ for name in fruits.keys():
 
 for name in fruits:
     price = fruits[name]
-    print(price) 
+    print(price)
